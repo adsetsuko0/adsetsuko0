@@ -102,17 +102,16 @@ Here are some projects I'm working on and developing:
 
 ## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/adsetsuko0">
-    <img src="https://github-readme-stats.vercel.app/api?username=adsetsuko0&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adsetsuko0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsetsuko0&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=adsetsuko0&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adsetsuko0&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 --- 
 
