@@ -88,6 +88,18 @@ Here are some projects I'm working on and developing:
 
 ---
 
+## Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adsetsuko0/adsetsuko0/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adsetsuko0/adsetsuko0/output/pacman-contribution-graph.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/adsetsuko0/adsetsuko0/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
+
 ## GitHub Activity
 
 <p align="center">
@@ -102,19 +114,7 @@ Here are some projects I'm working on and developing:
   </a>
 </p>
 
----
-
-## Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adsetsuko0/adsetsuko0/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adsetsuko0/adsetsuko0/output/pacman-contribution-graph.svg">
-    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/adsetsuko0/adsetsuko0/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
+--- 
 
 ## Let's Connect
 
