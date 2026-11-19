@@ -77,23 +77,6 @@ I enjoy working with Python, designing REST APIs, developing backend services, a
 
 ## Current Focus
 
-```python
-class AnnaErmak:
-    role = "Python Backend Developer"
-    location = "Warsaw, Poland"
-
-    interests = [
-        "Backend Development",
-        "Modern Technologies",
-        "API Architecture",
-        "Asynchronous Processing",
-        "Distributed Systems",
-    ]
-
-    open_to_work = True
-    always_learning = True
-```
-
 Currently focused on:
 
 - Improving Python skills and writing clean, maintainable code.
@@ -108,17 +91,14 @@ Currently focused on:
 
 ## Featured Projects
 
-### Task Manager
+Here are some projects I'm working on and developing:
 
-A task management web application with project organization, task tracking, JWT authentication, REST API, and an interactive dashboard.
+| Project | Description | Technologies |
+| ------- | ----------- | ------------ |
+| [Task Manager](https://github.com/adsetsuko0/task_manager) | A task management application with project organization, task tracking, JWT authentication, REST API, and an interactive dashboard. | Python, Django, Django REST Framework, PostgreSQL, SQLite, Docker, pytest |
+| Project 2 | Coming soon... | Python, FastAPI |
+| Project 3 | Coming soon... | Python, PostgreSQL |
 
-**Highlights:**
-- Project and task management.
-- Task statuses, priorities, assignees, and due dates.
-- JWT authentication.
-- REST API built with Django REST Framework.
-- Interactive dashboard with statistics and overdue tasks.
-- 80+ tests with approximately 89% coverage.
 
 **Tech Stack:** Python 3.12, Django, Django REST Framework, PostgreSQL, SQLite, SimpleJWT, Docker, pytest, GitHub Actions, Ruff.
 
