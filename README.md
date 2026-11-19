@@ -99,11 +99,6 @@ Here are some projects I'm working on and developing:
 | [AI Digest](https://github.com/adsetsuko0/ai-digest) | A personal RSS news digest API with user authentication, RSS feed subscriptions, feed management, and rate limiting. LLM-powered summaries are planned. | Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Alembic, Docker, pytest |
 | Project 3 | Coming soon... | Python, PostgreSQL |
 
-
-**Tech Stack:** Python 3.12, Django, Django REST Framework, PostgreSQL, SQLite, SimpleJWT, Docker, pytest, GitHub Actions, Ruff.
-
-[View Repository](https://github.com/adsetsuko0/task_manager)
-
 ---
 
 ## Currently Learning & Exploring
