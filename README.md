@@ -21,9 +21,7 @@ I enjoy working with Python, designing REST APIs, developing backend services, a
 - Working with Django and FastAPI.
 - Interested in database design and API architecture.
 - Actively exploring modern technologies, emerging tools, and new approaches to software development.
-- Continuously expanding my technical knowledge and improving my development skills.
 - Constantly learning, experimenting, and building new projects.
-- Open to collaborations and professional opportunities.
 
 **I'm open to any work opportunities where I can contribute, grow, learn new technologies, and build something meaningful!**
 
@@ -54,12 +52,10 @@ I enjoy working with Python, designing REST APIs, developing backend services, a
 Currently focused on:
 
 - Improving Python skills and writing clean, maintainable code.
-- Exploring modern backend architecture.
 - Developing REST APIs and backend services.
 - Learning more about asynchronous processing with Celery.
 - Exploring message brokers and distributed systems.
 - Improving database design and query optimization.
-- Discovering new technologies and development tools.
 
 ---
 
@@ -71,7 +67,7 @@ Here are some projects I'm working on and developing:
 | ------- | ----------- | ------------ |
 | [Task Manager](https://github.com/adsetsuko0/task_manager) | A task management application with project organization, task tracking, JWT authentication, REST API, and an interactive dashboard. | Python, Django, Django REST Framework, PostgreSQL, SQLite, Docker, pytest |
 | [AI Digest](https://github.com/adsetsuko0/ai-digest) | A personal RSS news digest API with user authentication, RSS feed subscriptions, feed management, and rate limiting. LLM-powered summaries are planned. | Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Alembic, Docker, pytest |
-| Project 3 | Coming soon... | Python, PostgreSQL |
+| Project 3 | Coming soon... | ... |
 
 ---
 
