@@ -96,7 +96,7 @@ Here are some projects I'm working on and developing:
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
 | [Task Manager](https://github.com/adsetsuko0/task_manager) | A task management application with project organization, task tracking, JWT authentication, REST API, and an interactive dashboard. | Python, Django, Django REST Framework, PostgreSQL, SQLite, Docker, pytest |
-| Project 2 | Coming soon... | Python, FastAPI |
+| [AI Digest](https://github.com/adsetsuko0/ai-digest) | A personal RSS news digest API with user authentication, RSS feed subscriptions, feed management, and rate limiting. LLM-powered summaries are planned. | Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Alembic, Docker, pytest |
 | Project 3 | Coming soon... | Python, PostgreSQL |
 
 
