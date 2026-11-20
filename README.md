@@ -2,10 +2,21 @@
 
 > Building reliable applications. Exploring modern technologies. Growing every day.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open_to_Work-Available-success?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Warsaw%2C%20Poland-blue?style=for-the-badge" alt="Location: Warsaw, Poland" />
-</p>
+<a href="https://github.com/adsetsuko0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/YOUR_TELEGRAM">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
 
 **Open to Work | Internships | Volunteering | Freelance | Full-time**
 
@@ -76,9 +87,7 @@ Here are some projects I'm working on and developing:
 - Advanced Python development.
 - Modern backend architecture and best practices.
 - Asynchronous programming and task processing.
-- Redis, Celery, and RabbitMQ.
 - Distributed systems and scalable applications.
-- API performance and optimization.
 - Testing strategies and code quality.
 - DevOps practices and CI/CD automation.
 
@@ -110,17 +119,6 @@ Here are some projects I'm working on and developing:
 </table>
 
 --- 
-
-## Let's Connect
-
-I'm always open to interesting projects, collaborations, internships, and new professional opportunities.
-
-- **Email:** [anna.ermak.dev@gmail.com](mailto:anna.ermak.dev@gmail.com)
-- **LinkedIn:** [linkedin.com/in/anna-ermak-b3a458363](https://www.linkedin.com/in/anna-ermak-b3a458363/)
-- **Telegram:** [@satoset](https://t.me/satoset)
-- **GitHub:** [@adsetsuko0](https://github.com/adsetsuko0)
-
----
 
 <p align="center">
   Thanks for visiting my profile!
