@@ -2,6 +2,7 @@
 
 > Building reliable applications. Exploring modern technologies. Growing every day.
 
+
 <a href="https://github.com/adsetsuko0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -11,11 +12,10 @@
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://t.me/YOUR_TELEGRAM">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
 
 </div>
+
+
 
 
 **Open to Work | Internships | Volunteering | Freelance | Full-time**
