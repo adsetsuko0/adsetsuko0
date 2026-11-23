@@ -6,10 +6,10 @@
 <a href="https://github.com/adsetsuko0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<a href="https://www.linkedin.com/in/anna-ermak">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anna.ermak.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -78,18 +78,8 @@ Here are some projects I'm working on and developing:
 | ------- | ----------- | ------------ |
 | [Task Manager](https://github.com/adsetsuko0/task_manager) | A task management application with project organization, task tracking, JWT authentication, REST API, and an interactive dashboard. | Python, Django, Django REST Framework, PostgreSQL, SQLite, Docker, pytest |
 | [AI Digest](https://github.com/adsetsuko0/ai-digest) | A personal RSS news digest API with user authentication, RSS feed subscriptions, feed management, and rate limiting. LLM-powered summaries are planned. | Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, Alembic, Docker, pytest |
-| Project 3 | Coming soon... | ... |
 
 ---
-
-## Currently Learning & Exploring
-
-- Advanced Python development.
-- Modern backend architecture and best practices.
-- Asynchronous programming and task processing.
-- Distributed systems and scalable applications.
-- Testing strategies and code quality.
-- DevOps practices and CI/CD automation.
 
 ---
 
